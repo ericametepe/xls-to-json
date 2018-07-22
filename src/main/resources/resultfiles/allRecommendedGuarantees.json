@@ -1,0 +1,1357 @@
+[ {
+  "answerId" : "ANSW0001",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "3" ]
+}, {
+  "answerId" : "ANSW0002",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "3" ]
+}, {
+  "answerId" : "ANSW0003",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "3" ]
+}, {
+  "answerId" : "ANSW0004",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "3" ]
+}, {
+  "answerId" : "ANSW0004",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "3" ]
+}, {
+  "answerId" : "ANSW0005",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "3" ]
+}, {
+  "answerId" : "ANSW0006",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "3" ]
+}, {
+  "answerId" : "ANSW0007",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "3" ]
+}, {
+  "answerId" : "ANSW0008",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "3" ]
+}, {
+  "answerId" : "ANSW0008",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "3" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0011",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0011",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0011",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0011",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0011",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0022",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "6", "9", "10" ]
+}, {
+  "answerId" : "ANSW0022",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "6", "9", "10" ]
+}, {
+  "answerId" : "ANSW0022",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0022",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "9" ]
+}, {
+  "answerId" : "ANSW0023",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "6", "9", "10" ]
+}, {
+  "answerId" : "ANSW0023",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "6", "9", "10" ]
+}, {
+  "answerId" : "ANSW0023",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "9" ]
+}, {
+  "answerId" : "ANSW0024",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "6", "9", "10" ]
+}, {
+  "answerId" : "ANSW0024",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "9" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "13", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "10" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10", "11" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "8", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "2", "11", "12", "9", "10" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0067",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "4" ]
+}, {
+  "answerId" : "ANSW0076",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "1", "2", "5", "9", "10" ]
+}, {
+  "answerId" : "ANSW0077",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0078",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "3", "7", "5", "9", "10" ]
+} ]

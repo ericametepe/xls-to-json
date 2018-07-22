@@ -1,0 +1,708 @@
+[ {
+  "requirementCode" : "Trésorerie",
+  "questions" : [ {
+    "questionCode" : "Vous détenez des effets de commerce sur vos clients ",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0001"
+  }, {
+    "questionCode" : "Par mesure de sécurité vous préférez disposer d'une autorisation de dépassement au cas où ?",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0002"
+  }, {
+    "questionCode" : "Votre activité est saisonnière",
+    "questions" : [ {
+      "questionCode" : "Vos clients sont des particuliers",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0003"
+    }, {
+      "questionCode" : "Vos clients sont des professionnels et/ou des particuliers",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0004"
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  }, {
+    "questionCode" : "Vous devez faire face à une commande exceptionnelle",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0005"
+  }, {
+    "questionCode" : "Vous devez faire face poctuellement à des dépenses imprévues ?",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0006"
+  }, {
+    "questionCode" : "Vous facturez régulièrement vos clients mais certains vous paient avec du retard",
+    "questions" : [ {
+      "questionCode" : "Vos clients sont des particuliers",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0007"
+    }, {
+      "questionCode" : "Vos clients sont des professionnels et/ou des particuliers",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0008"
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  } ],
+  "additionalInformation" : null
+}, {
+  "requirementCode" : "Travaux (Hors acquisistion immobilière)",
+  "questions" : [ {
+    "questionCode" : "Vos travaux sont à usage Privé ?",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0009"
+  }, {
+    "questionCode" : "Vos travaux sont à usage Professionnel ?",
+    "questions" : [ {
+      "questionCode" : "Etes-vous propriétaire ?",
+      "questions" : [ {
+        "questionCode" : "Aménagement / Décoration",
+        "questions" : [ ],
+        "additionalInformation" : null,
+        "answerId" : "ANSW0010"
+      }, {
+        "questionCode" : "Gros œuvre",
+        "questions" : [ ],
+        "additionalInformation" : null,
+        "answerId" : "ANSW0011"
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    }, {
+      "questionCode" : "Etes-vous locataire ?",
+      "questions" : [ {
+        "questionCode" : "Aménagement / Décoration",
+        "questions" : [ ],
+        "additionalInformation" : null,
+        "answerId" : "ANSW0012"
+      }, {
+        "questionCode" : "Gros œuvre",
+        "questions" : [ ],
+        "additionalInformation" : null,
+        "answerId" : "ANSW0013"
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  }, {
+    "questionCode" : "Vos travaux sont à usage Privé & Professionnel (mixte) ?",
+    "questions" : [ {
+      "questionCode" : "Etes-vous propriétaire ?",
+      "questions" : [ {
+        "questionCode" : "Aménagement / Décoration",
+        "questions" : [ {
+          "questionCode" : "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?",
+          "questions" : [ {
+            "questionCode" : "oui",
+            "questions" : [ ],
+            "additionalInformation" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé",
+            "answerId" : "ANSW0014"
+          }, {
+            "questionCode" : "non",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0015"
+          } ],
+          "additionalInformation" : null,
+          "answerId" : null
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      }, {
+        "questionCode" : "Gros œuvre",
+        "questions" : [ {
+          "questionCode" : "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?",
+          "questions" : [ {
+            "questionCode" : "oui",
+            "questions" : [ ],
+            "additionalInformation" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé",
+            "answerId" : "ANSW0016"
+          }, {
+            "questionCode" : "non",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0017"
+          } ],
+          "additionalInformation" : null,
+          "answerId" : null
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    }, {
+      "questionCode" : "Etes-vous locataire ?",
+      "questions" : [ {
+        "questionCode" : "Aménagement / Décoration",
+        "questions" : [ {
+          "questionCode" : "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?",
+          "questions" : [ {
+            "questionCode" : "oui",
+            "questions" : [ ],
+            "additionalInformation" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé",
+            "answerId" : "ANSW0018"
+          }, {
+            "questionCode" : "non",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0019"
+          } ],
+          "additionalInformation" : null,
+          "answerId" : null
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      }, {
+        "questionCode" : "Gros œuvre",
+        "questions" : [ {
+          "questionCode" : "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?",
+          "questions" : [ {
+            "questionCode" : "oui",
+            "questions" : [ ],
+            "additionalInformation" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé",
+            "answerId" : "ANSW0020"
+          }, {
+            "questionCode" : "non",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0021"
+          } ],
+          "additionalInformation" : null,
+          "answerId" : null
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  } ],
+  "additionalInformation" : null
+}, {
+  "requirementCode" : "Développer mon activité",
+  "questions" : [ {
+    "questionCode" : "Investir et / ou remplacer un nouveau matériel",
+    "questions" : [ {
+      "questionCode" : "Matériel neuf",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0022"
+    }, {
+      "questionCode" : "Matériel occasion",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0023"
+    }, {
+      "questionCode" : "Refinancement",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0024"
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  }, {
+    "questionCode" : "Acquérir ou créer une nouvelle entité",
+    "questions" : [ {
+      "questionCode" : "Fond de commerce",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0025"
+    }, {
+      "questionCode" : "Droit au bail",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0026"
+    }, {
+      "questionCode" : "Patientèle / Clientèle",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0027"
+    }, {
+      "questionCode" : "Parts / Actions Ste",
+      "questions" : [ {
+        "questionCode" : "Effectuez-vous ce rachat par le biais d'une holding ?",
+        "questions" : [ {
+          "questionCode" : "OUI",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0028"
+        }, {
+          "questionCode" : "non",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0029"
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  }, {
+    "questionCode" : "Vous vous associez",
+    "questions" : [ {
+      "questionCode" : "Parts / Actions Ste",
+      "questions" : [ {
+        "questionCode" : "Effectuez-vous ce rachat par le biais d'une holding ?",
+        "questions" : [ {
+          "questionCode" : "oui",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0030"
+        }, {
+          "questionCode" : "non",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0031"
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  } ],
+  "additionalInformation" : null
+}, {
+  "requirementCode" : "Création / Reprise d'une entreprise (besoin immatériel)",
+  "questions" : [ {
+    "questionCode" : "Fond de commerce",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0032"
+  }, {
+    "questionCode" : "Droit au Bail",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0033"
+  }, {
+    "questionCode" : "Pas de porte",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0034"
+  }, {
+    "questionCode" : "Parts / Actions Ste",
+    "questions" : [ {
+      "questionCode" : "Effectuez-vous ce rachat par le biais d'une holding ?",
+      "questions" : [ {
+        "questionCode" : "OUI",
+        "questions" : [ ],
+        "additionalInformation" : null,
+        "answerId" : "ANSW0035"
+      }, {
+        "questionCode" : "non",
+        "questions" : [ ],
+        "additionalInformation" : null,
+        "answerId" : "ANSW0036"
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  }, {
+    "questionCode" : "Patientèle / Clientèle",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0037"
+  } ],
+  "additionalInformation" : null
+}, {
+  "requirementCode" : "Rachat de prêt",
+  "questions" : [ {
+    "questionCode" : "Immobilier",
+    "questions" : [ {
+      "questionCode" : "Votre financement est à usage privé ?",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0038"
+    }, {
+      "questionCode" : "Votre financement est à usage professionnel ?",
+      "questions" : [ {
+        "questionCode" : "Vous allez louer à un tiers ?",
+        "questions" : [ ],
+        "additionalInformation" : null,
+        "answerId" : "ANSW0039"
+      }, {
+        "questionCode" : "Vous allez louer à vous même ?",
+        "questions" : [ {
+          "questionCode" : "terrain",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0040"
+        }, {
+          "questionCode" : "Bâtiment ou local professionnel",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0041"
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    }, {
+      "questionCode" : "Votre financement est à usage privé et professionnel (mixte) ?",
+      "questions" : [ {
+        "questionCode" : "Avez-vous dans la promesse la répartition en montant ou en surface ?",
+        "questions" : [ {
+          "questionCode" : "oui",
+          "questions" : [ {
+            "questionCode" : "terrain",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0042"
+          }, {
+            "questionCode" : "Bâtiment ou local professionnel",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0043"
+          } ],
+          "additionalInformation" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé",
+          "answerId" : null
+        }, {
+          "questionCode" : "non",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0044"
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  }, {
+    "questionCode" : "Travaux",
+    "questions" : [ {
+      "questionCode" : "Vos travaux sont à usage privé ?",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0045"
+    }, {
+      "questionCode" : "Vos travaux sont à usage professionnel ?",
+      "questions" : [ {
+        "questionCode" : "Etes-vous propriétaire ?",
+        "questions" : [ {
+          "questionCode" : "Aménagement / Décoration",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0046"
+        }, {
+          "questionCode" : "Gros œuvre",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0047"
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      }, {
+        "questionCode" : "Etes-vous locataire ?",
+        "questions" : [ {
+          "questionCode" : "Aménagement / Décoration",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0048"
+        }, {
+          "questionCode" : "Gros œuvre",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0049"
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    }, {
+      "questionCode" : "Vos travaux sont à usage privé & professionnel (mixte) ?",
+      "questions" : [ {
+        "questionCode" : "Etes-vous propriétaire ?",
+        "questions" : [ {
+          "questionCode" : "Aménagement / Décoration",
+          "questions" : [ {
+            "questionCode" : "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?",
+            "questions" : [ {
+              "questionCode" : "oui",
+              "questions" : null,
+              "additionalInformation" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé",
+              "answerId" : "ANSW0050"
+            }, {
+              "questionCode" : "non",
+              "questions" : [ ],
+              "additionalInformation" : null,
+              "answerId" : "ANSW0051"
+            } ],
+            "additionalInformation" : null,
+            "answerId" : null
+          } ],
+          "additionalInformation" : null,
+          "answerId" : null
+        }, {
+          "questionCode" : "Gros œuvre",
+          "questions" : [ {
+            "questionCode" : "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?",
+            "questions" : [ {
+              "questionCode" : "oui",
+              "questions" : null,
+              "additionalInformation" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé",
+              "answerId" : "ANSW0052"
+            }, {
+              "questionCode" : "non",
+              "questions" : [ ],
+              "additionalInformation" : null,
+              "answerId" : "ANSW0053"
+            } ],
+            "additionalInformation" : null,
+            "answerId" : null
+          } ],
+          "additionalInformation" : null,
+          "answerId" : null
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      }, {
+        "questionCode" : "Etes-vous locataire ?",
+        "questions" : [ {
+          "questionCode" : "Aménagement / Décoration",
+          "questions" : [ {
+            "questionCode" : "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?",
+            "questions" : [ {
+              "questionCode" : "oui",
+              "questions" : null,
+              "additionalInformation" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé",
+              "answerId" : "ANSW0054"
+            }, {
+              "questionCode" : "non",
+              "questions" : [ ],
+              "additionalInformation" : null,
+              "answerId" : "ANSW0055"
+            } ],
+            "additionalInformation" : null,
+            "answerId" : null
+          } ],
+          "additionalInformation" : null,
+          "answerId" : null
+        }, {
+          "questionCode" : "Gros œuvre",
+          "questions" : [ {
+            "questionCode" : "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?",
+            "questions" : [ {
+              "questionCode" : "oui",
+              "questions" : null,
+              "additionalInformation" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé",
+              "answerId" : "ANSW0056"
+            }, {
+              "questionCode" : "non",
+              "questions" : [ ],
+              "additionalInformation" : null,
+              "answerId" : "ANSW0057"
+            } ],
+            "additionalInformation" : null,
+            "answerId" : null
+          } ],
+          "additionalInformation" : null,
+          "answerId" : null
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  } ],
+  "additionalInformation" : "Le rachat doit être similaire à l'objet du financement d'origine"
+}, {
+  "requirementCode" : "Immobilier",
+  "questions" : [ {
+    "questionCode" : "Votre financement est à usage privé ?",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0058"
+  }, {
+    "questionCode" : "Votre financement est à usage professionnel ?",
+    "questions" : [ {
+      "questionCode" : "Vous allez louer à un tiers ?",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0059"
+    }, {
+      "questionCode" : "Vous allez louer à vous même ?",
+      "questions" : [ {
+        "questionCode" : "terrain",
+        "questions" : [ ],
+        "additionalInformation" : null,
+        "answerId" : "ANSW0060"
+      }, {
+        "questionCode" : "Bâtiment ou local professionnel",
+        "questions" : [ ],
+        "additionalInformation" : null,
+        "answerId" : "ANSW0061"
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  }, {
+    "questionCode" : "Votre financement est à usage privé & professionnel (mixte) ?",
+    "questions" : [ {
+      "questionCode" : "Avez-vous dans la promesse la répartition en montant ou en surface ?",
+      "questions" : [ {
+        "questionCode" : "OUI",
+        "questions" : [ {
+          "questionCode" : "terrain",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0062"
+        }, {
+          "questionCode" : "Bâtiment ou local professionnel",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0063"
+        } ],
+        "additionalInformation" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé",
+        "answerId" : null
+      }, {
+        "questionCode" : "NON",
+        "questions" : [ ],
+        "additionalInformation" : null,
+        "answerId" : "ANSW0064"
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  } ],
+  "additionalInformation" : null
+}, {
+  "requirementCode" : "Véhicule",
+  "questions" : [ {
+    "questionCode" : "à usage privé ?",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0065"
+  }, {
+    "questionCode" : "à usage professionnel ?",
+    "questions" : [ {
+      "questionCode" : "Vous voulez acquérir un financement neuf ?",
+      "questions" : [ {
+        "questionCode" : "Vous voulez acquérir un véhicule de tourisme ?",
+        "questions" : [ {
+          "questionCode" : "Vous préférez être propriétaire ?",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0066"
+        }, {
+          "questionCode" : "Vous préférez être locataire ?",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0067"
+        }, {
+          "questionCode" : "Ca met égal",
+          "questions" : [ ],
+          "additionalInformation" : null,
+          "answerId" : "ANSW0068"
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      }, {
+        "questionCode" : "Vous voulez acquérir un véhicule utilitaire ?",
+        "questions" : [ {
+          "questionCode" : "> 3,5 T",
+          "questions" : [ {
+            "questionCode" : "Vous préférez être propriétaire ?",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0069"
+          }, {
+            "questionCode" : "Vous préférez être locataire ?",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0070"
+          }, {
+            "questionCode" : "Ca met égal",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0071"
+          } ],
+          "additionalInformation" : null,
+          "answerId" : null
+        }, {
+          "questionCode" : "< 3,5 T",
+          "questions" : [ {
+            "questionCode" : "Vous préférez être propriétaire ?",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0072"
+          }, {
+            "questionCode" : "Vous préférez être locataire ?",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0073"
+          }, {
+            "questionCode" : "Ca met égal",
+            "questions" : [ ],
+            "additionalInformation" : null,
+            "answerId" : "ANSW0074"
+          } ],
+          "additionalInformation" : null,
+          "answerId" : null
+        } ],
+        "additionalInformation" : null,
+        "answerId" : null
+      } ],
+      "additionalInformation" : null,
+      "answerId" : null
+    }, {
+      "questionCode" : "Vous voulez acquérir un financement d'occasion  ?",
+      "questions" : [ ],
+      "additionalInformation" : null,
+      "answerId" : "ANSW0075"
+    } ],
+    "additionalInformation" : null,
+    "answerId" : null
+  } ],
+  "additionalInformation" : null
+}, {
+  "requirementCode" : "Autres",
+  "questions" : [ {
+    "questionCode" : "BRF besoin en fond de roulement",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0076"
+  }, {
+    "questionCode" : "Autres financements (licences / taxi, débit de boisson / Brevet) ",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0077"
+  }, {
+    "questionCode" : "Apport ou rachat en compte courant",
+    "questions" : [ ],
+    "additionalInformation" : null,
+    "answerId" : "ANSW0078"
+  } ],
+  "additionalInformation" : null
+} ]

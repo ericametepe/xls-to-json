@@ -1,0 +1,235 @@
+[ {
+  "questions" : [ "Trésorerie", "Vous détenez des effets de commerce sur vos clients " ],
+  "propositions" : [ "Escompte" ]
+}, {
+  "questions" : [ "Trésorerie", "Par mesure de sécurité vous préférez disposer d'une autorisation de dépassement au cas où ?" ],
+  "propositions" : [ "Facilité de Caisse" ]
+}, {
+  "questions" : [ "Trésorerie", "Votre activité est saisonnière", "Vos clients sont des particuliers" ],
+  "propositions" : [ "Crédit de campagne" ]
+}, {
+  "questions" : [ "Trésorerie", "Votre activité est saisonnière", "Vos clients sont des professionnels et/ou des particuliers" ],
+  "propositions" : [ "Crédit de campagne", "Affacturage" ]
+}, {
+  "questions" : [ "Trésorerie", "Vous devez faire face à une commande exceptionnelle" ],
+  "propositions" : [ "Découvert" ]
+}, {
+  "questions" : [ "Trésorerie", "Vous devez faire face poctuellement à des dépenses imprévues ?" ],
+  "propositions" : [ "Facilité de Caisse" ]
+}, {
+  "questions" : [ "Trésorerie", "Vous facturez régulièrement vos clients mais certains vous paient avec du retard", "Vos clients sont des particuliers" ],
+  "propositions" : [ "Facilité de Caisse" ]
+}, {
+  "questions" : [ "Trésorerie", "Vous facturez régulièrement vos clients mais certains vous paient avec du retard", "Vos clients sont des professionnels et/ou des particuliers" ],
+  "propositions" : [ "Facilité de Caisse", "Affacturage" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Privé ?" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel (Defi immo / Conso)" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Professionnel ?", "Etes-vous propriétaire ?", "Aménagement / Décoration" ],
+  "propositions" : [ "Crédit d'investissement", "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Professionnel ?", "Etes-vous propriétaire ?", "Gros œuvre" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Professionnel ?", "Etes-vous locataire ?", "Aménagement / Décoration" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Professionnel ?", "Etes-vous locataire ?", "Gros œuvre" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Privé & Professionnel (mixte) ?", "Etes-vous propriétaire ?", "Aménagement / Décoration", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "oui" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Privé & Professionnel (mixte) ?", "Etes-vous propriétaire ?", "Aménagement / Décoration", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "non" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Privé & Professionnel (mixte) ?", "Etes-vous propriétaire ?", "Gros œuvre", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "oui" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Privé & Professionnel (mixte) ?", "Etes-vous propriétaire ?", "Gros œuvre", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "non" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Privé & Professionnel (mixte) ?", "Etes-vous locataire ?", "Aménagement / Décoration", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "oui" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Privé & Professionnel (mixte) ?", "Etes-vous locataire ?", "Aménagement / Décoration", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "non" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel " ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Privé & Professionnel (mixte) ?", "Etes-vous locataire ?", "Gros œuvre", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "oui" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Travaux (Hors acquisistion immobilière)", "Vos travaux sont à usage Privé & Professionnel (mixte) ?", "Etes-vous locataire ?", "Gros œuvre", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "non" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel " ]
+}, {
+  "questions" : [ "Développer mon activité", "Investir et / ou remplacer un nouveau matériel", "Matériel neuf" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit première installation", "Crédit Bail / LOA", "Crédit SILO" ]
+}, {
+  "questions" : [ "Développer mon activité", "Investir et / ou remplacer un nouveau matériel", "Matériel occasion" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit première installation", "Crédit SILO" ]
+}, {
+  "questions" : [ "Développer mon activité", "Investir et / ou remplacer un nouveau matériel", "Refinancement" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit SILO" ]
+}, {
+  "questions" : [ "Développer mon activité", "Acquérir ou créer une nouvelle entité", "Fond de commerce" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Développer mon activité", "Acquérir ou créer une nouvelle entité", "Droit au bail" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Développer mon activité", "Acquérir ou créer une nouvelle entité", "Patientèle / Clientèle" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Développer mon activité", "Acquérir ou créer une nouvelle entité", "Parts / Actions Ste", "Effectuez-vous ce rachat par le biais d'une holding ?", "OUI" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Développer mon activité", "Acquérir ou créer une nouvelle entité", "Parts / Actions Ste", "Effectuez-vous ce rachat par le biais d'une holding ?", "non" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Développer mon activité", "Vous vous associez", "Parts / Actions Ste", "Effectuez-vous ce rachat par le biais d'une holding ?", "oui" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Développer mon activité", "Vous vous associez", "Parts / Actions Ste", "Effectuez-vous ce rachat par le biais d'une holding ?", "non" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Création / Reprise d'une entreprise (besoin immatériel)", "Fond de commerce" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Création / Reprise d'une entreprise (besoin immatériel)", "Droit au Bail" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Création / Reprise d'une entreprise (besoin immatériel)", "Pas de porte" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Création / Reprise d'une entreprise (besoin immatériel)", "Parts / Actions Ste", "Effectuez-vous ce rachat par le biais d'une holding ?", "OUI" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Création / Reprise d'une entreprise (besoin immatériel)", "Parts / Actions Ste", "Effectuez-vous ce rachat par le biais d'une holding ?", "non" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Création / Reprise d'une entreprise (besoin immatériel)", "Patientèle / Clientèle" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Prêt patrimoine professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Immobilier", "Votre financement est à usage privé ?" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel (Defi immo)" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Immobilier", "Votre financement est à usage professionnel ?", "Vous allez louer à un tiers ?" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel (Defi immo)" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Immobilier", "Votre financement est à usage professionnel ?", "Vous allez louer à vous même ?", "terrain" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine", "Crédit bail immobilier" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Immobilier", "Votre financement est à usage professionnel ?", "Vous allez louer à vous même ?", "Bâtiment ou local professionnel" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine", "Crédit bail immobilier" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Immobilier", "Votre financement est à usage privé et professionnel (mixte) ?", "Avez-vous dans la promesse la répartition en montant ou en surface ?", "oui", "terrain" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine", "Crédit bail immobilier" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Immobilier", "Votre financement est à usage privé et professionnel (mixte) ?", "Avez-vous dans la promesse la répartition en montant ou en surface ?", "oui", "Bâtiment ou local professionnel" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine", "Crédit bail immobilier" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Immobilier", "Votre financement est à usage privé et professionnel (mixte) ?", "Avez-vous dans la promesse la répartition en montant ou en surface ?", "non" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel (Defi immo)" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage privé ?" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel (Defi immo)" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage professionnel ?", "Etes-vous propriétaire ?", "Aménagement / Décoration" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage professionnel ?", "Etes-vous propriétaire ?", "Gros œuvre" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage professionnel ?", "Etes-vous locataire ?", "Aménagement / Décoration" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage professionnel ?", "Etes-vous locataire ?", "Gros œuvre" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage privé & professionnel (mixte) ?", "Etes-vous propriétaire ?", "Aménagement / Décoration", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "oui" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage privé & professionnel (mixte) ?", "Etes-vous propriétaire ?", "Aménagement / Décoration", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "non" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel " ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage privé & professionnel (mixte) ?", "Etes-vous propriétaire ?", "Gros œuvre", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "oui" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage privé & professionnel (mixte) ?", "Etes-vous propriétaire ?", "Gros œuvre", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "non" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel " ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage privé & professionnel (mixte) ?", "Etes-vous locataire ?", "Aménagement / Décoration", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "oui" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage privé & professionnel (mixte) ?", "Etes-vous locataire ?", "Aménagement / Décoration", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "non" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel " ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage privé & professionnel (mixte) ?", "Etes-vous locataire ?", "Gros œuvre", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "oui" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Rachat de prêt", "Travaux", "Vos travaux sont à usage privé & professionnel (mixte) ?", "Etes-vous locataire ?", "Gros œuvre", "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?", "non" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel " ]
+}, {
+  "questions" : [ "Immobilier", "Votre financement est à usage privé ?" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel (Defi immo)" ]
+}, {
+  "questions" : [ "Immobilier", "Votre financement est à usage professionnel ?", "Vous allez louer à un tiers ?" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel (Defi immo)" ]
+}, {
+  "questions" : [ "Immobilier", "Votre financement est à usage professionnel ?", "Vous allez louer à vous même ?", "terrain" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine", "Crédit bail immobilier" ]
+}, {
+  "questions" : [ "Immobilier", "Votre financement est à usage professionnel ?", "Vous allez louer à vous même ?", "Bâtiment ou local professionnel" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine", "Crédit bail immobilier" ]
+}, {
+  "questions" : [ "Immobilier", "Votre financement est à usage privé & professionnel (mixte) ?", "Avez-vous dans la promesse la répartition en montant ou en surface ?", "OUI", "terrain" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine", "Crédit bail immobilier" ]
+}, {
+  "questions" : [ "Immobilier", "Votre financement est à usage privé & professionnel (mixte) ?", "Avez-vous dans la promesse la répartition en montant ou en surface ?", "OUI", "Bâtiment ou local professionnel" ],
+  "propositions" : [ "Crédit immobilier", "Crédit immobilier modulable", "Crédit de première installation", "Crédit de première installation modulable", "Prêt Patrimoine Professionnel", "Prêt in Fine", "Crédit bail immobilier" ]
+}, {
+  "questions" : [ "Immobilier", "Votre financement est à usage privé & professionnel (mixte) ?", "Avez-vous dans la promesse la répartition en montant ou en surface ?", "NON" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel (Defi immo)" ]
+}, {
+  "questions" : [ "Véhicule", "à usage privé ?" ],
+  "propositions" : [ "Votre financement n'est pas un financement professionnel (Defi Conso)" ]
+}, {
+  "questions" : [ "Véhicule", "à usage professionnel ?", "Vous voulez acquérir un financement neuf ?", "Vous voulez acquérir un véhicule de tourisme ?", "Vous préférez être propriétaire ?" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Véhicule", "à usage professionnel ?", "Vous voulez acquérir un financement neuf ?", "Vous voulez acquérir un véhicule de tourisme ?", "Vous préférez être locataire ?" ],
+  "propositions" : [ "Crédit bail / LOA" ]
+}, {
+  "questions" : [ "Véhicule", "à usage professionnel ?", "Vous voulez acquérir un financement neuf ?", "Vous voulez acquérir un véhicule de tourisme ?", "Ca met égal" ],
+  "propositions" : [ "Crédit bail / LOA", "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Véhicule", "à usage professionnel ?", "Vous voulez acquérir un financement neuf ?", "Vous voulez acquérir un véhicule utilitaire ?", "> 3,5 T", "Vous préférez être propriétaire ?" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Véhicule", "à usage professionnel ?", "Vous voulez acquérir un financement neuf ?", "Vous voulez acquérir un véhicule utilitaire ?", "> 3,5 T", "Vous préférez être locataire ?" ],
+  "propositions" : [ "Crédit bail / LOA", "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Véhicule", "à usage professionnel ?", "Vous voulez acquérir un financement neuf ?", "Vous voulez acquérir un véhicule utilitaire ?", "> 3,5 T", "Ca met égal" ],
+  "propositions" : [ "Crédit bail / LOA", "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Véhicule", "à usage professionnel ?", "Vous voulez acquérir un financement neuf ?", "Vous voulez acquérir un véhicule utilitaire ?", "< 3,5 T", "Vous préférez être propriétaire ?" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Véhicule", "à usage professionnel ?", "Vous voulez acquérir un financement neuf ?", "Vous voulez acquérir un véhicule utilitaire ?", "< 3,5 T", "Vous préférez être locataire ?" ],
+  "propositions" : [ "Crédit bail / LOA", "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Véhicule", "à usage professionnel ?", "Vous voulez acquérir un financement neuf ?", "Vous voulez acquérir un véhicule utilitaire ?", "< 3,5 T", "Ca met égal" ],
+  "propositions" : [ "Crédit bail / LOA", "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé" ]
+}, {
+  "questions" : [ "Véhicule", "à usage professionnel ?", "Vous voulez acquérir un financement d'occasion  ?" ],
+  "propositions" : [ "Crédit d'équipement", "Crédit d'investissement modulable", "Crédit de première installation", "Crédit de première installation modulable", "Crédit de première installation capé", "Crédit d'équipement capé", "Crédit d'investissement" ]
+}, {
+  "questions" : [ "Autres", "BRF besoin en fond de roulement" ],
+  "propositions" : [ "Crédit de creconstitution de fond de roulement" ]
+}, {
+  "questions" : [ "Autres", "Autres financements (licences / taxi, débit de boisson / Brevet) " ],
+  "propositions" : [ "Crédit investissement" ]
+}, {
+  "questions" : [ "Autres", "Apport ou rachat en compte courant" ],
+  "propositions" : [ "Crédit investissement" ]
+} ]

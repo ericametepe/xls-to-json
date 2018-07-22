@@ -1,0 +1,196 @@
+[ {
+  "code" : "REQ0001",
+  "label" : "Trésorerie"
+}, {
+  "code" : "REQ0002",
+  "label" : "Travaux (Hors acquisistion immobilière)"
+}, {
+  "code" : "REQ0003",
+  "label" : "Développer mon activité"
+}, {
+  "code" : "REQ0004",
+  "label" : "Création / Reprise d'une entreprise (besoin immatériel)"
+}, {
+  "code" : "REQ0005",
+  "label" : "Rachat de prêt"
+}, {
+  "code" : "REQ0006",
+  "label" : "Immobilier"
+}, {
+  "code" : "REQ0007",
+  "label" : "Véhicule"
+}, {
+  "code" : "REQ0008",
+  "label" : "Autres"
+}, {
+  "code" : "QUEST0001",
+  "label" : "Vous détenez des effets de commerce sur vos clients "
+}, {
+  "code" : "QUEST0002",
+  "label" : "Par mesure de sécurité vous préférez disposer d'une autorisation de dépassement au cas où ?"
+}, {
+  "code" : "QUEST0003",
+  "label" : "Votre activité est saisonnière"
+}, {
+  "code" : "QUEST0004",
+  "label" : "Vos clients sont des particuliers"
+}, {
+  "code" : "QUEST0005",
+  "label" : "Vos clients sont des professionnels et/ou des particuliers"
+}, {
+  "code" : "QUEST0006",
+  "label" : "Vous devez faire face à une commande exceptionnelle"
+}, {
+  "code" : "QUEST0007",
+  "label" : "Vous devez faire face poctuellement à des dépenses imprévues ?"
+}, {
+  "code" : "QUEST0008",
+  "label" : "Vous facturez régulièrement vos clients mais certains vous paient avec du retard"
+}, {
+  "code" : "QUEST0009",
+  "label" : "Vos travaux sont à usage Privé ?"
+}, {
+  "code" : "QUEST0010",
+  "label" : "Vos travaux sont à usage Professionnel ?"
+}, {
+  "code" : "QUEST0011",
+  "label" : "Etes-vous propriétaire ?"
+}, {
+  "code" : "QUEST0012",
+  "label" : "Aménagement / Décoration"
+}, {
+  "code" : "QUEST0013",
+  "label" : "Gros œuvre"
+}, {
+  "code" : "QUEST0014",
+  "label" : "Etes-vous locataire ?"
+}, {
+  "code" : "QUEST0015",
+  "label" : "Vos travaux sont à usage Privé & Professionnel (mixte) ?"
+}, {
+  "code" : "QUEST0016",
+  "label" : "Avez-vous un devis ou une facture qui permet de distinguer si vos travaux relèvent du bien privé et / ou du bien professionnel ?"
+}, {
+  "code" : "QUEST0017",
+  "label" : "oui"
+}, {
+  "code" : "QUEST0018",
+  "label" : "non"
+}, {
+  "code" : "QUEST0019",
+  "label" : "Investir et / ou remplacer un nouveau matériel"
+}, {
+  "code" : "QUEST0020",
+  "label" : "Matériel neuf"
+}, {
+  "code" : "QUEST0021",
+  "label" : "Matériel occasion"
+}, {
+  "code" : "QUEST0022",
+  "label" : "Refinancement"
+}, {
+  "code" : "QUEST0023",
+  "label" : "Acquérir ou créer une nouvelle entité"
+}, {
+  "code" : "QUEST0024",
+  "label" : "Fond de commerce"
+}, {
+  "code" : "QUEST0025",
+  "label" : "Droit au bail"
+}, {
+  "code" : "QUEST0026",
+  "label" : "Patientèle / Clientèle"
+}, {
+  "code" : "QUEST0027",
+  "label" : "Parts / Actions Ste"
+}, {
+  "code" : "QUEST0028",
+  "label" : "Effectuez-vous ce rachat par le biais d'une holding ?"
+}, {
+  "code" : "QUEST0029",
+  "label" : "Vous vous associez"
+}, {
+  "code" : "QUEST0030",
+  "label" : "Pas de porte"
+}, {
+  "code" : "QUEST0031",
+  "label" : "Immobilier"
+}, {
+  "code" : "QUEST0032",
+  "label" : "Votre financement est à usage privé ?"
+}, {
+  "code" : "QUEST0033",
+  "label" : "Votre financement est à usage professionnel ?"
+}, {
+  "code" : "QUEST0034",
+  "label" : "Vous allez louer à un tiers ?"
+}, {
+  "code" : "QUEST0035",
+  "label" : "Vous allez louer à vous même ?"
+}, {
+  "code" : "QUEST0036",
+  "label" : "terrain"
+}, {
+  "code" : "QUEST0037",
+  "label" : "Bâtiment ou local professionnel"
+}, {
+  "code" : "QUEST0038",
+  "label" : "Votre financement est à usage privé et professionnel (mixte) ?"
+}, {
+  "code" : "QUEST0039",
+  "label" : "Avez-vous dans la promesse la répartition en montant ou en surface ?"
+}, {
+  "code" : "QUEST0040",
+  "label" : "Travaux"
+}, {
+  "code" : "QUEST0041",
+  "label" : "Votre financement est à usage privé & professionnel (mixte) ?"
+}, {
+  "code" : "QUEST0042",
+  "label" : "à usage privé ?"
+}, {
+  "code" : "QUEST0043",
+  "label" : "à usage professionnel ?"
+}, {
+  "code" : "QUEST0044",
+  "label" : "Vous voulez acquérir un financement neuf ?"
+}, {
+  "code" : "QUEST0045",
+  "label" : "Vous voulez acquérir un véhicule de tourisme ?"
+}, {
+  "code" : "QUEST0046",
+  "label" : "Vous préférez être propriétaire ?"
+}, {
+  "code" : "QUEST0047",
+  "label" : "Vous préférez être locataire ?"
+}, {
+  "code" : "QUEST0048",
+  "label" : "Ca met égal"
+}, {
+  "code" : "QUEST0049",
+  "label" : "Vous voulez acquérir un véhicule utilitaire ?"
+}, {
+  "code" : "QUEST0050",
+  "label" : "> 3,5 T"
+}, {
+  "code" : "QUEST0051",
+  "label" : "< 3,5 T"
+}, {
+  "code" : "QUEST0052",
+  "label" : "Vous voulez acquérir un financement d'occasion  ?"
+}, {
+  "code" : "QUEST0053",
+  "label" : "BRF besoin en fond de roulement"
+}, {
+  "code" : "QUEST0054",
+  "label" : "Autres financements (licences / taxi, débit de boisson / Brevet) "
+}, {
+  "code" : "QUEST0055",
+  "label" : "Apport ou rachat en compte courant"
+}, {
+  "code" : "ADINFO0001",
+  "label" : "Montage : 2 financements en Defipro pour le montant pro en Defi immo pour le montant privé"
+}, {
+  "code" : "ADINFO0002",
+  "label" : "Le rachat doit être similaire à l'objet du financement d'origine"
+} ]

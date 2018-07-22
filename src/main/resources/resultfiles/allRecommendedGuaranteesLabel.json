@@ -1,0 +1,1357 @@
+[ {
+  "answerId" : "ANSW0001",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution adaptée" ]
+}, {
+  "answerId" : "ANSW0002",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution adaptée" ]
+}, {
+  "answerId" : "ANSW0003",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution adaptée" ]
+}, {
+  "answerId" : "ANSW0004",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution adaptée" ]
+}, {
+  "answerId" : "ANSW0004",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution adaptée" ]
+}, {
+  "answerId" : "ANSW0005",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution adaptée" ]
+}, {
+  "answerId" : "ANSW0006",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution adaptée" ]
+}, {
+  "answerId" : "ANSW0007",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution adaptée" ]
+}, {
+  "answerId" : "ANSW0008",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution adaptée" ]
+}, {
+  "answerId" : "ANSW0008",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution adaptée" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0010",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0011",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0011",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0011",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0011",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0011",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0012",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0013",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0014",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0016",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0018",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0020",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0022",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de matériel/ outillage", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0022",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de matériel/ outillage", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0022",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0022",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "BPI" ]
+}, {
+  "answerId" : "ANSW0023",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de matériel/ outillage", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0023",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de matériel/ outillage", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0023",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "BPI" ]
+}, {
+  "answerId" : "ANSW0024",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de matériel/ outillage", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0024",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "BPI" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0025",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0026",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0027",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0028",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0029",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0030",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0031",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0032",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0033",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0034",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Subrogation Privilège Vendeur FDC", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0035",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0036",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0037",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0040",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0041",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0042",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0043",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0046",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0047",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0048",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0049",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0050",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0052",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI", "Hypotèque (si travaux)" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0054",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0056",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de fonds de Commerce", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0060",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0061",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0062",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0063",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution Possible", "Hypotèque (si travaux)", "PPD (Privilège Préteur de Deniers)", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0066",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0067",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0068",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0069",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0070",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0071",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0072",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0073",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0074",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0075",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "Nantissement de véhicule" ]
+}, {
+  "answerId" : "ANSW0076",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Financement possible sans garantie", "Caution Possible", "France Active", "BPI", "SIAGI" ]
+}, {
+  "answerId" : "ANSW0077",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ ]
+}, {
+  "answerId" : "ANSW0078",
+  "productCode" : "MLT01",
+  "guaranteesCode" : [ "Caution adaptée", "Nantissement de Comptes de Titres", "France Active", "BPI", "SIAGI" ]
+} ]
